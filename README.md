@@ -18,8 +18,6 @@ A modern calculator desktop application built using Python and Tkinter.
 ## Why I Built This
 As a first-year Mechanical Engineering student, I wanted to explore programming and GUI development by building a practical desktop application.
 
-## Screenshot
-(Add screenshot here)
 
 ## Run Project
 
